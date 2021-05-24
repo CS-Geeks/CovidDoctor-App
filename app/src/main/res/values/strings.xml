@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CovidDoctor</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="take_a_test">Take a Test!</string>
+    <string name="scan_or_upload">Scan or upload your Lungs X-ray</string>
+    <string name="for_test">photo for Coronaviruse test</string>
+    <string name="be_careful">Be careful and follow these things</string>
+    <string name="have_corona">"You have Covid-19 symptoms but do not worry cure is found!"</string>
+    <string name="do_not_have_corona">"You don't have Coronavirus!!"</string>
 </resources>
