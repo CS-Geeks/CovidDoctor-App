@@ -7,19 +7,15 @@ It shows daily news about covid-19 and how to protect yourself.
 ## Images
 <table align="center">
   <tr>
-    
     <td>
       <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/home.png" alt="Home screen"/>
-    </td>
-    
+    </td>    
     <td>
       <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/have%20corona.png" alt="Result screen" />
-    </td>
-    
+    </td>  
     <td>
       <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/corona%20free.png" alt="Result screen"/>
    </td>
-    
   </tr>
 </table>
   
