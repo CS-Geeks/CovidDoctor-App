@@ -8,13 +8,13 @@ It have a simple, beautiful, and friendly UI.
 <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/home.png" alt="Home screen"/>
+      <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/assets/corona%20free.png" alt="Home screen"/>
     </td>    
     <td>
-      <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/have%20corona.png" alt="Result screen" />
+      <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/assets/have%20corona.png" alt="Result screen" />
     </td>  
     <td>
-      <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/corona%20free.png" alt="Result screen"/>
+      <img src="https://github.com/CS-Geeks/CovidDoctor-App/blob/main/assets/corona%20free.png" alt="Result screen"/>
    </td>
   </tr>
 </table>
