@@ -1,8 +1,5 @@
 # Covid Doctor App
-Android app that uses ML model together with TFlite to scan x-ray lungs photos.
-It takes photo from camera or gallery as input and outputs 2 possible outcomes (Covid symptoms or Normal).
-It shows daily news and some infromation about covid-19 and how to protect yourself and those around you.
-It have a simple, beautiful, and friendly UI. 
+Android app that uses ML model together with TFlite to scan x-ray lungs photos. It takes photos from the camera or gallery as input and outputs 2 possible outcomes (Covid symptoms or Normal). It shows daily news and some information about covid-19 and how to protect yourself and those around you. It has a simple, beautiful, and friendly UI.
 
 ## Images
 <table align="center">
